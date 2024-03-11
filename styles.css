@@ -1,0 +1,65 @@
+#home{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+    font-style: oblique;
+    color: aquamarine;
+}
+#img 1{
+    height: 60%;
+    width: 40;
+}
+#img 2{
+    height: 60%;
+    width : 40%;
+}
+#img 3{
+    height: 60%;
+    width: 40%;
+}
+#about{
+    color: royalblue;
+    background-color: skygreen;
+    font-style: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    font-size: larger;
+}
+#skills{
+    color: plum;
+    background-color: violet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    font-size: larger;
+    font-style: inherit;
+}
+.project{
+    color: silver;
+    background-color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: unset;
+    font-weight: 800;
+    font-size: larger;
+}
+#project{
+    color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: initial;
+}
+#contact{
+    color: gold;
+    background-color: black;
+    font-style: italic;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#img 4{
+    height: 60%:
+    weight: 40%:
+}
+#img 5{
+    height: 60%;
+    width: 40%;
+}
+
